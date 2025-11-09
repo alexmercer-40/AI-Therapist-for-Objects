@@ -1,0 +1,5 @@
+{
+  "name": "AI Therapist for Objects",
+  "description": "A multimodal monologue generator that gives a voice to your everyday objects. Upload an image or describe an object, and receive a brief, emotionally grounding first-person monologue from its perspective, offering gentle reflections and nudges.",
+  "requestFramePermissions": []
+}
